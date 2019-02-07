@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Hello World!"
-        android:background="#59bc28"
+        android:background="#33810c"
         android:textSize="60sp"
         android:gravity="center"
         android:textColor="#101010"
