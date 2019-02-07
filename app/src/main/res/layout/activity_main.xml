@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:text="Hello World!"
         android:background="#59bc28"
-        android:textSize="50sp"
+        android:textSize="60sp"
         android:gravity="center"
         android:textColor="#101010"
         app:layout_constraintBottom_toBottomOf="parent"
